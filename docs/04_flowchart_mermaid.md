@@ -26,8 +26,6 @@ Files referenced here (repo paths):
 
 ## 2) Mermaid Flowchart
 
-Paste this block into https://mermaid.live , https://app.eraser.io (or render in GitHub Markdown that supports Mermaid)
-
 > This is a **functional lineage diagram** (not a full ER clone).  
 > It focuses on “who feeds who” in the business process.
 
